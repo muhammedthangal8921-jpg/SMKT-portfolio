@@ -137,8 +137,9 @@ h1 em{font-family:Georgia,serif;color:var(--green);font-weight:400}
 .secondary:hover{background:#ffffff12}
 .availability{display:flex;align-items:center;gap:9px;font-size:13px;color:#acbaca;margin-top:26px}
 .status-dot{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 0 4px #c5f36b12;flex-shrink:0}
-.profile{border:1px solid #ffffff25;border-radius:18px;background:linear-gradient(145deg,#24344cbb,#111b2bdd 55%);box-shadow:0 30px 70px #0005;padding:33px;transform:rotate(2deg);transition:transform .4s,border-color .4s}
-.profile:hover{transform:rotate(0deg) translateY(-5px);border-color:#c5f36b66}
+.profile{border:1px solid #ffffff25;border-radius:18px;background:linear-gradient(145deg,#24344cbb,#111b2bdd 55%);box-shadow:0 30px 70px #0005;padding:24px;transition:border-color .3s;min-width:0}
+.profile:hover{border-color:#c5f36b66}
+.profile-photo{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center;border-radius:10px;margin-top:20px}
 .monogram{padding:38px 0;font-size:98px;letter-spacing:-7px;text-shadow:0 0 60px #c5f36b18}
 .profile-top{font-size:12px}
 .profile h2{font-size:24px}
@@ -206,7 +207,7 @@ h1{font-size:46px;letter-spacing:-2px}
 .profile{transform:none;padding:27px}
 .profile h2{max-width:none}
 .monogram{padding:18px 0;font-size:80px}
-.profile:hover{transform:translateY(-3px)}
+.profile:hover{transform:none}
 .topics{font-size:11px}
 .skills,.service-grid{grid-template-columns:1fr;gap:16px}
 .skills article{padding:25px}

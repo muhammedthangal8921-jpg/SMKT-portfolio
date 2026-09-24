@@ -2,10 +2,31 @@ SMKT PORTFOLIO — YOUR INDEPENDENT WEBSITE COPY
 Sayyid Muhammad Koya Thangal
 Exported 24 September 2026
 
+PHOTO UPDATE — SEPTEMBER 2026
+Your supplied portrait is included unchanged in:
+assets/sayyid-muhammad-koya-thangal.png
+The homepage now uses this photo, a straight portrait card, a more specific
+headline, and clearer wording for remote opportunities.
+
+UPDATE YOUR EXISTING WEBSITE
+1. Extract this ZIP and open its SMKT-Portfolio folder.
+2. Back up the files in your existing website folder or GitHub repository.
+3. Replace index.html and style.css and add the complete assets folder.
+   Keep assets beside index.html, not inside another SMKT-Portfolio folder.
+4. Preview index.html locally or with VS Code Live Server.
+5. Upload/commit these changes to your existing SMKT-portfolio repository's
+   publishing branch. Your existing website address stays the same.
+6. After deployment, refresh your website with Ctrl+F5.
+
+These files were updated from your saved SMKT-Portfolio-Source.zip. If you
+have since edited your website, merge the photo and styling changes into
+that newer copy before replacing files. This ZIP has not been published.
+
 WHAT IS INCLUDED
 index.html — Your content, page sections, email links and embedded favicon.
 style.css — Colours, backgrounds, responsive layouts and animation styling.
 script.js — Subtle scroll reveals, respecting reduced-motion preferences.
+assets/ — Your portrait image. Keep this folder with the website files.
 START-HERE.txt — These instructions.
 
 This is the latest midnight-blue portfolio with AI automation services and
@@ -15,7 +36,7 @@ or package installation is required to run this copy.
 1. OPEN IT ON YOUR COMPUTER
 Download the ZIP. Right-click it in Windows and select Extract All.
 Open the extracted SMKT-Portfolio folder, then double-click index.html.
-Keep index.html, style.css and script.js together in the same folder.
+Keep index.html, style.css, script.js and assets together in the same folder.
 
 2. EDIT IT IN VS CODE
 Open VS Code. Choose File > Open Folder and select SMKT-Portfolio.
@@ -29,7 +50,7 @@ If styles appear unchanged after an update, try Ctrl+F5 in the browser.
 
 3. PUBLISH UNDER YOUR GITHUB ACCOUNT
 Sign into your own GitHub account and create a public repository, such as
-smkt-portfolio. Upload index.html, style.css and script.js to its top level.
+smkt-portfolio. Upload index.html, style.css, script.js and assets to its top level.
 Upload the extracted files, not the ZIP or an enclosing folder.
 Save/commit the files to the main branch.
 Open repository Settings > Pages. Under Build and deployment, choose
