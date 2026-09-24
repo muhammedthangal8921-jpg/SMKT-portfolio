@@ -1,0 +1,59 @@
+SMKT PORTFOLIO — YOUR INDEPENDENT WEBSITE COPY
+Sayyid Muhammad Koya Thangal
+Exported 24 September 2026
+
+WHAT IS INCLUDED
+index.html — Your content, page sections, email links and embedded favicon.
+style.css — Colours, backgrounds, responsive layouts and animation styling.
+script.js — Subtle scroll reveals, respecting reduced-motion preferences.
+START-HERE.txt — These instructions.
+
+This is the latest midnight-blue portfolio with AI automation services and
+work-from-home availability. No ChatGPT login, API key, database, build step,
+or package installation is required to run this copy.
+
+1. OPEN IT ON YOUR COMPUTER
+Download the ZIP. Right-click it in Windows and select Extract All.
+Open the extracted SMKT-Portfolio folder, then double-click index.html.
+Keep index.html, style.css and script.js together in the same folder.
+
+2. EDIT IT IN VS CODE
+Open VS Code. Choose File > Open Folder and select SMKT-Portfolio.
+Edit index.html for your name, services, qualifications and projects.
+Use Ctrl+F to find the text you want to change. Keep HTML tags intact.
+Edit style.css for colours and layout. Later rules override earlier rules;
+the section beginning 'Midnight surfaces' controls the upgraded theme.
+Edit script.js only when you want to change scroll-reveal behavior.
+Press Ctrl+S to save, then refresh the browser to see your changes.
+If styles appear unchanged after an update, try Ctrl+F5 in the browser.
+
+3. PUBLISH UNDER YOUR GITHUB ACCOUNT
+Sign into your own GitHub account and create a public repository, such as
+smkt-portfolio. Upload index.html, style.css and script.js to its top level.
+Upload the extracted files, not the ZIP or an enclosing folder.
+Save/commit the files to the main branch.
+Open repository Settings > Pages. Under Build and deployment, choose
+Deploy from a branch. Select main and /(root), then Save.
+When deployment finishes, GitHub Pages settings shows your website link.
+A project URL usually follows https://YOUR-USERNAME.github.io/smkt-portfolio/.
+Use the actual URL GitHub displays. Future changes to the publishing branch
+are published automatically. GitHub Pages supports public repositories on
+GitHub Free. Your uploaded repository source is also public.
+
+Official instructions (checked 24 September 2026):
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+4. HOW CONTACT WORKS
+Contact buttons open the visitor's email application with your address and,
+where applicable, a subject. They do not send messages automatically or
+store enquiries. The visitor needs an email application configured, or can
+copy your displayed email address into their email service.
+
+5. YOUR CONTROL
+You can edit these files locally and use any host that serves static HTML,
+CSS and JavaScript. This export is a separate copy: edits do not automatically
+sync with the portfolio hosted in ChatGPT. Publishing on another host does
+not change your existing ChatGPT site's access settings.
+There is no admin dashboard in this copy; manage content through the files.
+Keep a backup ZIP before making major changes.
